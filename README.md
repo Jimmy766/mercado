@@ -14,6 +14,20 @@
  
  # Respuestas
  
- la complejidad del algoritmo es Lineal O(N)  -> donde N es la longitud de la cadena
+ El algoritmmo se encuentra dentro del fichero "mercado.js"
  
+ Los test estan en "mercado.test.js"
+ 
+ La complejidad del algoritmo es **Lineal O(N)**  -> donde **N** es la longitud de la cadena
+ 
+ # Uso
+ 
+ ```bash
+npm i
+```
+
+
+ ```bash
+npm run test
+```
  
