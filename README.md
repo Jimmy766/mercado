@@ -16,7 +16,7 @@
  
  El algoritmmo se encuentra dentro del fichero "mercado.js"
  
- Los test estan en "mercado.test.js"
+ Los test estan en "firstRepeated.test.js"
  
  La complejidad del algoritmo es **Lineal O(N)**  -> donde **N** es la longitud de la cadena
  
